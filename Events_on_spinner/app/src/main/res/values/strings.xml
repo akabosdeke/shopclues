@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Events_on_spinner</string>
+    <string-array name="state">
+        <item>select place</item>
+        <item>kjammu kashmir</item>
+        <item>manali</item>
+        <item>leh and laddakh</item>
+        <item>tamil nadu</item>
+        <item>kajjiar</item>
+
+
+
+    </string-array>
+</resources>

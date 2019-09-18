@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Static_listview_project</string>
+    <string-array name="author">
+        <item>mahadevi verma</item>
+        <item>jay shanker prasad</item>
+        <item>munsi premchand</item>
+        <item>suryakant tripathi nirala</item>
+        <item>harivansh rai bacchan</item>
+    </string-array>
+    <string-array name="details">
+        <item>kjdnfbdpbmp</item>
+        <item>kjdnfbdpbmp</item>
+        <item>kjdnfbdpbmp</item>
+        <item>kjdnfbdpbmp</item>
+        <item>kjdnfbdpbmp</item>
+    </string-array>
+</resources>

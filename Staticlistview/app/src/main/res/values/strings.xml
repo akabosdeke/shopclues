@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Staticlistview</string>
+    <string-array name="ListV">
+
+        <item>Agra</item>
+        <item>Matura</item>
+        <item>Nepal</item>
+        <item>Aligrah</item>
+    </string-array>
+</resources>

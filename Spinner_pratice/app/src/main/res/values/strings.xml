@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Spinner_pratice</string>
+    <string-array name="state">
+        <item>uttar pradesh</item>
+        <item>delhi</item>
+        <item>jammu and  kashmir</item>
+        <item>bihar</item>
+        <item>haryana</item>
+    </string-array>
+    <string-array name="delhi_city">
+        <item>phase 3</item>
+        <item>vinod nagar</item>
+        <item>chandani chowk</item>
+    </string-array>
+    <string-array name="haryana_city">
+        <item>rohtak</item>
+        <item>kharkhoda</item>
+        <item>somipat</item>
+        <item>panipat</item>
+    </string-array>
+
+    <string-array name="uttar_pradesh">
+        <item>kanpur</item>
+        <item>ghaziabad</item>
+        <item>nehru nagar</item>
+        <item>vijay nagar</item>
+    </string-array>
+
+    <string-array name="bihar_city">
+        <item>gaya</item>
+        <item>patna</item>
+        <item>gorakhpur</item>
+        <item>ludinyana</item>
+    </string-array>
+    <string-array name="jammu_kashmir_city">
+        <item>pulvama</item>
+        <item>khanival</item>
+        <item>katra</item>
+    </string-array>
+</resources>

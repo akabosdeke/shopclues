@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Webview_assisment</string>
+    <string-array name="writer">
+        <item>mahadevi verma</item>
+        <item>jay shanker prasad</item>
+        <item>munsi premchand</item>
+        <item>suryakant tripathi nirala</item>
+        <item>harivansh rai bacchan</item>
+    </string-array>
+</resources>

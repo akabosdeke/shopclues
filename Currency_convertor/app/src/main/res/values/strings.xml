@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency_convertor</string>
+    <string-array name="from">
+        <item>rupee</item>
+        <item>doller</item>
+        <item>pound</item>
+        <item>riyal</item>
+    </string-array>
+
+</resources>

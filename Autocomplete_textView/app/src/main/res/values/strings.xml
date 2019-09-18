@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Autocomplete_textView</string>
+    <string-array name="places">
+        <item>karnatak</item>
+        <item>aligarg</item>
+        <item>mahesmati</item>
+        <item>banaras</item>
+        <item>lucknow</item>
+        <item>pondichari</item>
+        <item>agra</item>
+
+
+
+    </string-array>
+</resources>

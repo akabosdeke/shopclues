@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "233503349529",
+    "firebase_url": "https://clubfactory2-b8094.firebaseio.com",
+    "project_id": "clubfactory2-b8094",
+    "storage_bucket": "clubfactory2-b8094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233503349529:android:62e4497f6849bddf",
+        "android_client_info": {
+          "package_name": "com.akarshan.clubfactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233503349529-rf73n5rott1ik3di3s574tp4rk8d0g3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxrUvcX2z4DBYiVNJ5nsAxVU7LTi03hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233503349529-rf73n5rott1ik3di3s574tp4rk8d0g3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

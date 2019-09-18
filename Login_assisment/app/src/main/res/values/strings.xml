@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Login_assisment</string>
+    <string-array name="course">
+        <item>java</item>
+        <item>android</item>
+        <item>kotlin</item>
+        <item>Data science</item>
+    </string-array>
+    <string-array name="java">
+
+    </string-array>
+</resources>

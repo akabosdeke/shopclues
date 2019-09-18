@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="jadu">
+        <item>delhi</item>
+        <item>mumbai</item>
+        <item>ghaziabad</item>
+        <item>ausytraila</item>
+
+
+    </string-array>
+</resources>

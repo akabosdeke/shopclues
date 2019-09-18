@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gridview</string>
+    <string-array name="data">
+        <item>kanpur</item>
+        <item>ghaziabad</item>
+        <item>noida</item>
+        <item>delhi</item>
+        <item>mumbai</item>
+        <item>titan</item>
+
+    </string-array>
+</resources>

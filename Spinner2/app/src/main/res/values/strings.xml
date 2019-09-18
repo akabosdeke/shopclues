@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Spinner2</string>
+
+
+    <string-array name="state">
+        <item>delhi</item>
+        <item>uttar pradesh</item>
+        <item>madhya pradesh</item>
+        <item>haryana</item>
+        <item>bihar</item>
+        <item>megalaya</item>
+    </string-array>
+
+    <string-array name="uttarpradesh_cities">
+        <item>noida</item>
+        <item>khora</item>
+        <item>chijarsi</item>
+        <item>pratap vihar</item>
+        <item>vijay nagar</item>
+        <item>lal kuan</item>
+
+    </string-array>
+    <string-array name="madhyapradesh_cities">
+        <item>bhopal</item>
+        <item>new bhopal</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="delhi_cities">
+    <item>vinod nagar</item>
+    <item>phase 3</item>
+    <item>chandani chowk</item>
+    </string-array>
+</resources>

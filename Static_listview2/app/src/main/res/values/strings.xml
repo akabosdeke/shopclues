@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Static_listview</string>
+    <string-array name="places">
+        <item>kashmir</item>
+        <item>punjab</item>
+        <item>pok</item>
+        <item>kanyakumari</item>
+        <item>mana</item>
+        <item>manali</item>
+        <item>kedarnath</item>
+        <item>mirjapur</item>
+        <item>pryagraj</item>
+        <item>kashi vishwanath</item>
+        <item>aligarah</item>
+
+    </string-array>
+</resources>

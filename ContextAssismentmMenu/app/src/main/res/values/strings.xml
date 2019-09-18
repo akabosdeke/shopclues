@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContextAssismentmMenu</string>
+    <string-array name="places">
+        <item>jaipur</item>
+        <item>haryana</item>
+
+        <item>faridabad</item>
+
+
+    </string-array>
+</resources>

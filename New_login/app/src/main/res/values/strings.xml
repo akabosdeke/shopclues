@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">New_login</string>
+    <string-array name="course">
+        <item>java</item>
+        <item>kotlin</item>
+        <item>python</item>
+        <item>Data Science</item>
+    </string-array>
+
+</resources>
